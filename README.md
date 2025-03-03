@@ -1,4 +1,4 @@
-## Beyond conventional block copolymer self-assembly: heat-activated folding and growth of metastable, length-specific DNA fibers
+## Heat-activated growth of metastable and length-defined DNA fibers expands traditional polymer assembly
 Michael D. Dore, Muhammad Ghufran Rafique, Tianxiao Peter Yang, Marlo Zorman, Casey M. Platnich, Pengfei Xu, Tuan Trinh, Felix J. Rizzuto, Gonzalo Cosa, Jianing
 Li, Alba Guarné, Dmytro F. Perepichka, and Hanadi F. Sleiman
 
@@ -18,7 +18,7 @@ enabling temporal control of polymer lifetime and underscoring their potential u
 acid delivery, stimuli-responsive biomaterials, and soft robotics.
 
 ### Description
-Files and scripts required to replicate simulations in (insert DOI when possible). Simulations were run with Desmond and analysis scripts require the NumPy, Pandas, Matplotlib, MDTraj, and Pickle libraries.
+Files and scripts required to replicate simulations in (DOI: 10.1038/s41467-024-48722-2). Simulations were run with Desmond and analysis scripts require the NumPy, Pandas, Matplotlib, MDTraj, and Pickle libraries.
 
 #### job_files
 All structure and configuration input files required to replicate simulations.
